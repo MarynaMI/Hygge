@@ -7,6 +7,6 @@
 
 [Image](7579C9B8-D226-4210-867B-E6EFD8A893F4.jpeg)
 
-[Branching](7579C9B8-D226-4210-867B-E6EFD8A893F4.jpeg)
+![Branching](7579C9B8-D226-4210-867B-E6EFD8A893F4.jpeg)
 
 [Link](ru.wikipedia.org/wiki/%D0%A5%D1%8E%D0%B3%D0%B3%D0%B5)
