@@ -5,8 +5,8 @@
 # Заголовок 1
 ## Тестовое задание 2
 
-[Image](https://shkolazhizni.ru/img/content/i179/179428_or.jpg)
+[Image](shkolazhizni.ru/img/content/i179/179428_or.jpg)
 
 [Branching] (179428_or.jpg)
 
-[Link](url)
+[Link](https://ru.wikipedia.org/wiki/%D0%A5%D1%8E%D0%B3%D0%B3%D0%B5)
